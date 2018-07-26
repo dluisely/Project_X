@@ -1323,4 +1323,12 @@ blockquote .person cite {
 .posts_feed {
 	margin-left: 50px;
 }
+#post_container {
+	margin-top: 100px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+#product_picture {
+	margin-left: 615px;
+}
 /*# sourceMappingURL=style.css.map */
